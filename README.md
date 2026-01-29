@@ -1,23 +1,21 @@
-# 👋 Bonjour, je suis Thierry Kourouma
+# 📊 Data Analyst / BI Analyst
 
-## 📊 Data Analyst / BI Analyst
-
-Bienvenue sur mon portfolio GitHub 👨‍💻
+Bienvenue sur mon portfolio GitHub
 
 Passionné par la **data analyse** et la **business intelligence**, j’ai plusieurs années d’expérience dans l’analyse, l’extraction, la transformation et la visualisation de données. J’utilise principalement **Python**, **SQL** et des outils de **data visualisation** comme **Power BI**, **Tableau** et **QlikView** pour aider à la prise de décision à travers des indicateurs clairs et pertinents.
 
 ---
 
-## 🧑‍💼 À propos de moi
+## À propos de moi
 
-* 📍 Basé à Nanterre (France)
-* 🎯 Spécialisé en **data cleaning**, **analyse exploratoire (EDA)**, **KPI** et **qualité des données**
-* 📈 Expérience en **reporting automatisé** et **dashboards décisionnels**
-* 🎓 Certification professionnelle **Data Analyst – OpenClassrooms (Niveau 6)**
+* Basé à Nanterre (France)
+* Spécialisé en **data cleaning**, **analyse exploratoire (EDA)**, **KPI** et **qualité des données**
+* Expérience en **reporting automatisé** et **dashboards décisionnels**
+* Certification professionnelle **Data Analyst – OpenClassrooms (Niveau 6)**
 
 ---
 
-## 🛠️ Compétences techniques
+## Compétences techniques
 
 **Analyse & BI**
 
@@ -37,7 +35,7 @@ Passionné par la **data analyse** et la **business intelligence**, j’ai plusi
 
 ---
 
-## 💼 Expérience professionnelle
+## Expérience professionnelle
 
 **Data Analyst – GFK‑ISL** *(2018 – 2022)*
 
@@ -57,9 +55,7 @@ Passionné par la **data analyse** et la **business intelligence**, j’ai plusi
 
 ---
 
-## 📂 Projets Data (sélection)
-
-> ⚠️ Remplace les liens ci‑dessous par les URL réelles de tes repositories GitHub.
+# 📂 Projets Data (sélection)
 
 ### 🔹 Analyse & Python
 
