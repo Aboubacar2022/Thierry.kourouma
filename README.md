@@ -60,7 +60,7 @@ Passionné par la **data analyse** et la **business intelligence**, j’ai plusi
 ### 🔹 Analyse & Python
 
 * **Analyse exploratoire de données (EDA)**
-  👉 [https://github.com/ton‑username/eda‑project](https://github.com/ton‑username/eda‑project)
+  👉 https://aboubacar2022.github.io/Projet_FAO/
 
 * **Nettoyage et préparation de données avec Pandas**
   👉 [https://github.com/ton‑username/data‑cleaning‑python](https://github.com/ton‑username/data‑cleaning‑python)
