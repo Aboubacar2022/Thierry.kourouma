@@ -60,7 +60,7 @@ Passionné par la **data analyse** et la **business intelligence**, j’ai plusi
 ### 🔹 Analyse & Python
 
 * **Analyse exploratoire de données (EDA)**
-  👉 https://github.com/Aboubacar2022/Projet_FAO
+  👉 [https://github.com/Aboubacar2022/Projet_FAO](https://github.com/Aboubacar2022/Projet_FAO)
 
 ### 🔹 SQL & Bases de données
 
