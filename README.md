@@ -64,8 +64,8 @@ Passionné par la **data analyse** et la **business intelligence**, j’ai plusi
 
 ### 🔹 SQL & Bases de données
 
-* **Analyse de données avec SQL (requêtes avancées)**
-  👉 [https://github.com/ton‑username/sql‑data‑analysis](https://github.com/ton‑username/sql‑data‑analysis)
+* **Analyse de données avec SQL**
+  👉 [https://github.com/Aboubacar2022/Projet_Data_Immobilier](https://github.com/Aboubacar2022/Projet_Data_Immobilier)
 
 ### 🔹 Business Intelligence & Dashboard
 
