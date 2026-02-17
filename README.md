@@ -72,20 +72,10 @@ Passionné par la **data analyse** et la **business intelligence**, j’ai plusi
 * **Dashboard Power BI – Suivi des KPI**
   👉 [https://github.com/ton‑username/powerbi‑dashboard](https://github.com/ton‑username/powerbi‑dashboard)
 
-* **Visualisation de données avec Tableau**
-  👉 [https://github.com/ton‑username/tableau‑project](https://github.com/ton‑username/tableau‑project)
-
-### 🔹 Reporting & Automatisation
-
-* **Reporting automatisé (Python / Excel)**
-  👉 [https://github.com/ton‑username/automated‑reporting](https://github.com/ton‑username/automated‑reporting)
-
----
-
 ## 📬 Me contacter
 
 * 📧 Email : **[thierrykourouma@gmail.com](mailto:thierrykourouma@gmail.com)**
-* 💼 LinkedIn : *(à ajouter si disponible)*
+* 💼 LinkedIn : [https://www.linkedin.com/in/thierry-kourouma-547a3648/](https://www.linkedin.com/in/thierry-kourouma-547a3648/)
 * 📊 GitHub : [https://github.com/ton‑username](https://github.com/ton‑username)
 
 ---
