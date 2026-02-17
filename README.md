@@ -70,7 +70,7 @@ Passionné par la **data analyse** et la **business intelligence**, j’ai plusi
 ### 🔹 Business Intelligence & Dashboard
 
 * **Dashboard Power BI – Suivi des KPI**
-  👉 [https://github.com/ton‑username/powerbi‑dashboard](https://github.com/ton‑username/powerbi‑dashboard)
+  👉 [https://github.com/Aboubacar2022/Projet_Power_Bi_Suivi_des_ventes](https://github.com/Aboubacar2022/Projet_Power_Bi_Suivi_des_ventes)
 
 ## 📬 Me contacter
 
