@@ -76,8 +76,7 @@ Passionné par la **data analyse** et la **business intelligence**, j’ai plusi
 
 * 📧 Email : **[thierrykourouma@gmail.com](mailto:thierrykourouma@gmail.com)**
 * 💼 LinkedIn : [https://www.linkedin.com/in/thierry-kourouma-547a3648/](https://www.linkedin.com/in/thierry-kourouma-547a3648/)
-* 📊 GitHub : [https://github.com/ton‑username](https://github.com/ton‑username)
-
+* 📊 GitHub : [https://github.com/Aboubacar2022/Thierry.kourouma/tree/main](https://github.com/Aboubacar2022/Thierry.kourouma/tree/main)
 ---
 
 ⭐ N’hésite pas à explorer mes projets et à me contacter pour toute opportunité ou collaboration autour de la data !
