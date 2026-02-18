@@ -62,6 +62,9 @@ Passionné par la **data analyse** et la **business intelligence**, j’ai plusi
 * **Analyse exploratoire de données (EDA)**
   👉 [https://github.com/Aboubacar2022/Projet_FAO](https://github.com/Aboubacar2022/Projet_FAO)
 
+* **Mahine Learning**
+  👉 [https://github.com/Aboubacar2022/Projet_Machine_Lerning](https://github.com/Aboubacar2022/Projet_Machine_Lerning)
+
 ### 🔹 SQL & Bases de données
 
 * **Analyse de données avec SQL**
